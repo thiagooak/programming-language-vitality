@@ -1,0 +1,19 @@
+{
+  "name": "programming-language-vitality",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "fetch-repos.js",
+  "scripts": {
+    "fetch": "node fetch-repos.js",
+    "merge": "node merge-normalize.js"
+  },
+  "dependencies": {
+    "@octokit/plugin-throttling": "^9.3.2",
+    "@octokit/rest": "^21.0.2",
+    "dotenv": "^17.4.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
