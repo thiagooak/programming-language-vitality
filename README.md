@@ -1,6 +1,6 @@
 # Programming Language Vitality
 
-Read the current [report.pdf](draft)
+Read the current [draft](report.pdf)
 
 ## Fetch and normalize data
 
