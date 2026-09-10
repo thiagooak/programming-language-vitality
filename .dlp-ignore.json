@@ -1,0 +1,22 @@
+[
+    {
+        "path": "data/clojure.json",
+        "policy": "EmailPolicy",
+        "justification": "this was generated based on publicly available data from github"
+    },
+    {
+        "path": "data/elixir.json",
+        "policy": "EmailPolicy",
+        "justification": "this was generated based on publicly available data from github"
+    },
+    {
+        "path": "data/ocaml.json",
+        "policy": "EmailPolicy",
+        "justification": "this was generated based on publicly available data from github"
+    },
+    {
+        "path": "data/zig.json",
+        "policy": "EmailPolicy",
+        "justification": "this was generated based on publicly available data from github"
+    }
+]
